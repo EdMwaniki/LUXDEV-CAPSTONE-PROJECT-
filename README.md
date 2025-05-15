@@ -1,20 +1,30 @@
 # LUXDEV-CAPSTONE-PROJECT-
+
 Introduction
+
 Project Overview
+
 This capstone project focuses on analyzing customer churn for a subscription-based streaming service. Customer churn, defined as the discontinuation of service by subscribers, represents a significant challenge for streaming platforms. By identifying patterns and factors that contribute to churn, the company can develop targeted retention strategies to improve customer lifetime value and reduce acquisition costs.
 
 Business Problem
+
 Streaming services operate in a highly competitive market where customer acquisition costs are substantial. Retaining existing customers is significantly more cost-effective than acquiring new ones. Understanding churn drivers enables the development of proactive retention strategies, personalized engagement tactics, and improved service offerings.
+
 Project Objectives
+
 •	Analyze historical subscriber data to identify patterns and trends related to churn
 •	Determine key factors influencing customer churn decisions
 •	Create customer segments based on churn risk profiles
 •	Recommend actionable retention strategies for different customer segments
 
+
 Methodology
+
 The technical approach adopted to undertake this project entailed involved the following activities:
 
+
 Data Pre-processing
+
 The data pre-processing was done using Python language on the Visual Studio Code code editing tool. This included the following steps:
 •	Creating a new virtual environment for the project on Visual Studio Code
 •	Loading the dataset (csv file) into Python and assigning it a new dataframe name
@@ -25,6 +35,7 @@ The data pre-processing was done using Python language on the Visual Studio Code
 
 
 Exploratory Data Analysis
+
  This involved extracting some preliminary insights from the data that could require some further investigation and included the following tasks:
 •	Checking for and addressing outliers from notable columns in the dataset
 •	Determining the overall customer churn rate 
@@ -32,17 +43,20 @@ Exploratory Data Analysis
 
 
 Deep Dive Analysis
+
 •	Identifying potential churn risk factors from correlation analysis and creating churn risk profiles for customers based on it
 •	Conducting customer segmentation analysis by comparing different variables to the churn risk profiles
 
 
 Limitations
+
 a)	Unavailability of additional data including Know Your Customer (KYC) information in the dataset that could have allowed more in-depth analysis of trends and patterns related to churn e,g customer location, types of genres watched, number of children.
 b)	The dataset contained some discrepancies e.g. some of the records showed  negative total days between join date and last login date .
 c)	Lack of adequate time-based data to enable conducting of temporal analysis including trends and patterns
 
 
 Key Findings
+
 The following were the key insights that were derived from the analysis conducted:
 •	The business is operating with a high overall churn rate of 47.4%, meaning that the business has lost almost half of its customer base during the period. 
 •	The average viewing duration per customer is approximately 40 hours per month which translates to about 1.3 hours per day. 
@@ -57,6 +71,7 @@ The following were the key insights that were derived from the analysis conducte
 
 
 Conclusions
+
 1)	The business has a high customer churn rate of 47.4%. This is indicative of either the current customer retention strategies employed being ineffective or the existence of external factors that are negatively impacting the business’s ability to retain their customers
 2)	The average daily viewing hours per customer is approximately 1.3 hours. This usage duration is relatively low and requires further investigation to determine its root causes.
 3)	All the subscription type categories had similar average churn rates, showing that none of the subscription plans offered by the business were significantly attractive enough to the customers to retain them long term.
@@ -65,6 +80,7 @@ Conclusions
 
 
 Recommendations:
+
 1)	The business should provide more data as will be requested by the analyst for further investigation to address some of the concerns and gaps arising from the findings.
 2)	A review of the current customer retention strategies by the relevant departments is required to uncover the reasons behind the low service usage by customers, which is likely a key churn risk factor.
 3)	The business should consider offering highly customized services to the various customer segments, particularly the subscription type and age category segments to best need their needs.
