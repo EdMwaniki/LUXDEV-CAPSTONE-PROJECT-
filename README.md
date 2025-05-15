@@ -58,6 +58,7 @@ c)	Lack of adequate time-based data to enable conducting of temporal analysis in
 Key Findings
 
 The following were the key insights that were derived from the analysis conducted:
+
 •	The business is operating with a high overall churn rate of 47.4%, meaning that the business has lost almost half of its customer base during the period. 
 •	The average viewing duration per customer is approximately 40 hours per month which translates to about 1.3 hours per day. 
 •	The low churn risk customer segment had the highest average daily viewing hours per customer (1.8 hours) while the high churn risk customer segment had the lowest average daily viewing hours per customer (1.2 hours).
