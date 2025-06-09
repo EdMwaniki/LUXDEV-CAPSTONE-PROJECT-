@@ -15,10 +15,10 @@
 This capstone project focuses on analyzing customer churn for a subscription-based streaming service. Customer churn, defined as the discontinuation of service by subscribers, represents a significant challenge for streaming platforms. By identifying patterns and factors that contribute to churn, the company can develop targeted retention strategies to improve customer lifetime value and reduce acquisition costs.
 
 
-![Capstone Dashboard Snapshot](https://github.com/user-attachments/assets/08a781a0-651d-4640-a5f3-dd6c6029f15c)
+![Capstone Dashboard Snapshot 2](https://github.com/user-attachments/assets/c80e0a6e-0b9b-4a1b-b610-b816551cde4c)
 
 
-### Business Problem
+### Problem Statement
 
 Streaming services operate in a highly competitive market where customer acquisition costs are substantial. Retaining existing customers is significantly more cost-effective than acquiring new ones. Understanding churn drivers enables the development of proactive retention strategies, personalized engagement tactics, and improved service offerings.
 
