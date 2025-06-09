@@ -1,4 +1,4 @@
-# LUXDEV-CAPSTONE-PROJECT-
+# CUSTOMER CHURN ANALYSIS: INVESTIGATING CUSTOMER CHURN DRIVERS FOR A SUBSCRIPTION-BASED STREAMING SERVICE
 
 ### Table of Contents
 - [Project Overview](#projectoverview)
@@ -13,6 +13,10 @@
 ### Project Overview
 
 This capstone project focuses on analyzing customer churn for a subscription-based streaming service. Customer churn, defined as the discontinuation of service by subscribers, represents a significant challenge for streaming platforms. By identifying patterns and factors that contribute to churn, the company can develop targeted retention strategies to improve customer lifetime value and reduce acquisition costs.
+
+
+![Capstone Dashboard Snapshot](https://github.com/user-attachments/assets/08a781a0-651d-4640-a5f3-dd6c6029f15c)
+
 
 ### Business Problem
 
